@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Can I Use",
+		"caniuse_local",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Format",
+		"Emmet",
+		"FuzzyFilePath",
+		"Git",
+		"GitGutter",
+		"Harmonious Color Schemes",
+		"HTML5",
+		"HTMLBeautify",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"LiveStyle",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/Grafikart/ST3-LiveReload"
+	]
+}
