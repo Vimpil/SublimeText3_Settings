@@ -1,7 +1,7 @@
 {
-	"color_scheme": "Packages/Harmonious Color Schemes/Abyss.tmTheme",
-	"font_face": "m-2m",
-	"font_size": 12,
+	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"font_face": "Inconsolata",
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Vintage"

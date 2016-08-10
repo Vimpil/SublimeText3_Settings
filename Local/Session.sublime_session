@@ -8,11 +8,11 @@
 		"/Users/vimpil/Desktop/Porosya"
 	],
 	"last_version": 3114,
-	"last_window_id": 88,
+	"last_window_id": 110,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 563.0,
+		"new_window_height": 1002.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -20,12 +20,60 @@
 				"selected_items":
 				[
 					[
-						"padd",
-						"padding"
+						"ma",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"fan",
+						"fancybox_array"
+					],
+					[
+						"toggle",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass()"
+					],
+					[
+						"togg",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"op",
+						"opacity"
 					],
 					[
 						"margin",
-						"margin-top"
+						"margin-left"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"pa",
+						"padding-left"
+					],
+					[
+						"padd",
+						"padding"
 					],
 					[
 						"ba",
@@ -100,10 +148,6 @@
 						"trigger	.trigger()"
 					],
 					[
-						"mar",
-						"margin-top"
-					],
-					[
 						"mouse",
 						"mousedown	.mousedown()"
 					],
@@ -152,14 +196,6 @@
 						"project-row"
 					],
 					[
-						"pa",
-						"padding-right"
-					],
-					[
-						"ma",
-						"margin-left"
-					],
-					[
 						"text",
 						"text-decoration"
 					],
@@ -178,10 +214,6 @@
 					[
 						"ha",
 						"hasClass	.hasClass()"
-					],
-					[
-						"bor",
-						"border-radius"
 					]
 				]
 			},
@@ -191,10 +223,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "html",
+				"height": 67.0,
+				"last_filter": "forma",
 				"selected_items":
 				[
+					[
+						"forma",
+						"Format: Javascript"
+					],
 					[
 						"html",
 						"HTMLBeautify"
@@ -204,27 +240,51 @@
 						"Format CSS: Expanded"
 					],
 					[
-						"ja",
-						"Format: Javascript"
-					],
-					[
-						"forma",
-						"Format CSS: Expanded"
+						"fuzz",
+						"FuzzyFilePath: Show info"
 					],
 					[
 						"fuz",
 						"FuzzyFilePath: Rebuild cache"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
+						"package ",
+						"Package Control: List Packages"
 					],
 					[
-						"form",
-						"Format: Javascript"
+						"aut",
+						"Autoprefix CSS"
 					],
 					[
-						"htm",
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"package control lis",
+						"Package Control: List Packages"
+					],
+					[
+						"git commi",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"gits",
+						"Git: Status"
+					],
+					[
+						"htlm",
 						"HTMLBeautify"
 					],
 					[
@@ -232,19 +292,123 @@
 						"Format: Javascript"
 					],
 					[
-						"packa",
-						"Package Control: Remove Package"
+						"form",
+						"Format: Javascript"
 					],
 					[
-						"Packa",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Add Channel"
+						"list pa",
+						"Package Control: List Packages"
 					],
 					[
 						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git reset",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git ",
+						"Git: Checkout Current File"
+					],
+					[
+						"git re",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"commit",
+						"Git: Commit history"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit history"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git bra",
+						"Git: Push Current Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git ad",
+						"Git: Add All"
+					],
+					[
+						"gitigno",
+						"Git: Update Project Ignored Files"
+					],
+					[
+						"set syntax html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
@@ -252,8 +416,20 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Remove Package"
+						"ja",
+						"Format: Javascript"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
 					],
 					[
 						"package controle ma",
@@ -270,13 +446,9 @@
 					[
 						"pa",
 						"Package Control: List Packages"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 497.0
+				"width": 521.0
 			},
 			"console":
 			{
@@ -297,8 +469,25 @@
 			},
 			"file_history":
 			[
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.css",
 				"/Volumes/Winlin/Porosya/2/css/style.css",
+				"/Volumes/Winlin/Porosya/mytestforukrstudio.co.nf/index.html",
 				"/Volumes/Winlin/Porosya/2/index.html",
+				"/Volumes/Winlin/Porosya/1/index.html",
+				"/Volumes/Winlin/Porosya/1/js/script.js",
+				"/Volumes/Winlin/Porosya/2/js/script.js",
+				"/Volumes/Winlin/Porosya/1/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/2/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/1/css/style.css",
+				"/Volumes/Winlin/Porosya/1/bootstrap/css/bootstrap.css",
+				"/Volumes/Winlin/Porosya/2/css/beta.css",
+				"/Volumes/Winlin/Porosya/2/css/beta-2.css",
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.min.css",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Default (OSX).sublime-keymap",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/Volumes/Winlin/Porosya/Troubles/font_problem/css/main.css",
 				"/Volumes/Winlin/Porosya/Troubles/input Text/css/main.css",
 				"/Users/vimpil/Downloads/webfontkit-20160721-062029/stylesheet.css",
@@ -314,7 +503,7 @@
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
@@ -328,6 +517,103 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"next",
+					"width",
+					"min",
+					"fluid",
+					"opacity: 1;",
+					"opacity: 1;\n    display: bl",
+					"opacity: 1;\n    display: block;\n    z-index: 2;",
+					"fluid",
+					"flexli",
+					"flexsli",
+					"flexlider",
+					"flexsli",
+					"a",
+					"visited",
+					"div.footer_site-dev",
+					"email",
+					"emai",
+					"postovs",
+					"opacity",
+					"ie8",
+					"opacity",
+					"opaci",
+					"text",
+					"call",
+					"opacity",
+					"fancybox_array",
+					"opacity",
+					"#present",
+					"fancybox",
+					"fancy",
+					"callback_popup",
+					"callba",
+					"call",
+					"обратный",
+					"callback",
+					"#callba",
+					"call",
+					"fancybox",
+					"flexsli",
+					"present",
+					"call",
+					"project-bu",
+					"projects",
+					"main_menu a",
+					"h6",
+					"prestext",
+					"h6",
+					"presText",
+					"h6",
+					"h5",
+					"h4",
+					"h3",
+					"h2",
+					"h1",
+					"email",
+					"div.presText span",
+					"main_menu",
+					"h6",
+					"kels_fo",
+					"current_price",
+					"h1",
+					";\n",
+					"email",
+					"e-mail",
+					"h2",
+					".h2",
+					"less",
+					"text-deco",
+					"h6",
+					"font-size: 14px",
+					"h3",
+					"3",
+					"h3",
+					"font-size: 14px",
+					"font-size: 12px",
+					"h2",
+					"p-1",
+					"font-size: 12px;",
+					"12px",
+					"font-size:12px",
+					"12px",
+					"11px",
+					"h5",
+					"11px",
+					"overwr",
+					"u",
+					"строительство",
+					"foot_li_active",
+					"white",
+					"наши",
+					"2-15",
+					"z-inde",
+					"line",
+					"butt",
+					"yellow",
+					"proj_box",
+					"discount_",
 					"> ",
 					"отправить",
 					"Kelson",
@@ -358,72 +644,7 @@
 					"footer",
 					"menu-row",
 					"footer",
-					"fix-text a",
-					"fix-te",
-					"menu-row",
-					"menu-rig",
-					"fix-menu-r",
-					"fix-menu",
-					"fix-text",
-					"204",
-					"phone",
-					"button-me",
-					"inner_tim",
-					"h2",
-					"h1",
-					".h1",
-					"project-b",
-					"menu-row",
-					"callback",
-					"projects_pro",
-					"project",
-					"41px",
-					"41",
-					"active",
-					".active",
-					"project-b",
-					"fix",
-					"items",
-					"fix-me",
-					"button-me",
-					"items-row",
-					"menu-row",
-					"fix-me",
-					"fix-",
-					"li",
-					"a {",
-					"from-line",
-					"form",
-					".pag-n",
-					"gall",
-					"galla",
-					".gallery-g",
-					"fancybox-clo",
-					"fancybox-ite",
-					"fancybox",
-					"elements_call",
-					"ul,",
-					"}",
-					"flexsli",
-					"main-arti",
-					"ul",
-					"3",
-					"input",
-					"header-logo",
-					"fluid-co",
-					"header-fo",
-					"button-gree",
-					"callba",
-					"fluid",
-					"главная",
-					"a",
-					";\n",
-					"a",
-					"after",
-					"proje",
-					"submi",
-					"form",
-					"head"
+					"fix-text a"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -440,7 +661,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -451,10 +672,14 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 88.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -494,7 +719,7 @@
 			{
 			}
 		},
-		"new_window_width": 1267.0
+		"new_window_width": 1276.0
 	},
 	"windows":
 	[
@@ -504,20 +729,84 @@
 				"selected_items":
 				[
 					[
-						"pa",
-						"padding-left"
-					],
-					[
 						"padd",
-						"padding"
+						"padding-bottom"
 					],
 					[
-						"margin",
-						"margin-top"
+						"th",
+						"this	$(this)"
+					],
+					[
+						"t",
+						"trim	$.trim()"
+					],
+					[
+						"u",
+						"url()"
 					],
 					[
 						"ba",
+						"background"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"bacg",
 						"background-color"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"fan",
+						"fancybox_array"
+					],
+					[
+						"toggle",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass()"
+					],
+					[
+						"togg",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"pa",
+						"padding-left"
 					],
 					[
 						"pad",
@@ -588,10 +877,6 @@
 						"trigger	.trigger()"
 					],
 					[
-						"mar",
-						"margin-top"
-					],
-					[
 						"mouse",
 						"mousedown	.mousedown()"
 					],
@@ -640,14 +925,6 @@
 						"project-row"
 					],
 					[
-						"ma",
-						"margin-left"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
 						"fo",
 						"font-family"
 					],
@@ -662,20 +939,16 @@
 					[
 						"ha",
 						"hasClass	.hasClass()"
-					],
-					[
-						"bor",
-						"border-radius"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Volumes/Winlin/Porosya/2/css/style.css",
+					"file": "/Volumes/Winlin/Porosya/2/cat.html",
 					"settings":
 					{
-						"buffer_size": 11575,
+						"buffer_size": 19292,
 						"line_ending": "Unix"
 					}
 				},
@@ -683,7 +956,23 @@
 					"file": "/Volumes/Winlin/Porosya/2/index.html",
 					"settings":
 					{
-						"buffer_size": 7874,
+						"buffer_size": 16827,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Volumes/Winlin/Porosya/2/css/style.css",
+					"settings":
+					{
+						"buffer_size": 21027,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Volumes/Winlin/Porosya/2/js/script.js",
+					"settings":
+					{
+						"buffer_size": 1608,
 						"line_ending": "Unix"
 					}
 				}
@@ -704,31 +993,87 @@
 						"HTMLBeautify"
 					],
 					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"instal",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"forma",
+						"Format: Javascript"
+					],
+					[
 						"css",
 						"Format CSS: Expanded"
 					],
 					[
-						"ja",
-						"Format: Javascript"
-					],
-					[
-						"forma",
-						"Format CSS: Expanded"
+						"fuzz",
+						"FuzzyFilePath: Show info"
 					],
 					[
 						"fuz",
 						"FuzzyFilePath: Rebuild cache"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
+						"package ",
+						"Package Control: List Packages"
 					],
 					[
-						"form",
-						"Format: Javascript"
+						"aut",
+						"Autoprefix CSS"
 					],
 					[
-						"htm",
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"package control lis",
+						"Package Control: List Packages"
+					],
+					[
+						"git commi",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"gits",
+						"Git: Status"
+					],
+					[
+						"htlm",
 						"HTMLBeautify"
 					],
 					[
@@ -736,19 +1081,107 @@
 						"Format: Javascript"
 					],
 					[
-						"packa",
-						"Package Control: Remove Package"
-					],
-					[
-						"Packa",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Add Channel"
+						"form",
+						"Format: Javascript"
 					],
 					[
 						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git reset",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git ",
+						"Git: Checkout Current File"
+					],
+					[
+						"git re",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"commit",
+						"Git: Commit history"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit history"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git bra",
+						"Git: Push Current Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git ad",
+						"Git: Add All"
+					],
+					[
+						"gitigno",
+						"Git: Update Project Ignored Files"
+					],
+					[
+						"set syntax html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
@@ -756,8 +1189,20 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Remove Package"
+						"ja",
+						"Format: Javascript"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
 					],
 					[
 						"package controle ma",
@@ -774,10 +1219,6 @@
 					[
 						"pa",
 						"Package Control: List Packages"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 521.0
@@ -799,10 +1240,32 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/Volumes/Winlin/Porosya/2",
+				"/Volumes/Winlin/Porosya/2/css",
+				"/Volumes/Winlin/Porosya/2/js"
+			],
 			"file_history":
 			[
-				"/Volumes/Winlin/Porosya/2/css/style.css",
 				"/Volumes/Winlin/Porosya/2/index.html",
+				"/Volumes/Winlin/Porosya/1/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/2/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/1/css/style.css",
+				"/Volumes/Winlin/Porosya/1/js/script.js",
+				"/Volumes/Winlin/Porosya/1/index.html",
+				"/Volumes/Winlin/Porosya/2/js/script.js",
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.css",
+				"/Volumes/Winlin/Porosya/1/bootstrap/css/bootstrap.css",
+				"/Volumes/Winlin/Porosya/2/css/beta.css",
+				"/Volumes/Winlin/Porosya/2/css/beta-2.css",
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.min.css",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Default (OSX).sublime-keymap",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Volumes/Winlin/Porosya/2/css/style.css",
 				"/Volumes/Winlin/Porosya/Troubles/font_problem/css/main.css",
 				"/Volumes/Winlin/Porosya/Troubles/input Text/css/main.css",
 				"/Users/vimpil/Downloads/webfontkit-20160721-062029/stylesheet.css",
@@ -832,6 +1295,104 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"rub",
+					"rubl",
+					"proj_box_",
+					"map",
+					"header-logo",
+					"a:hover",
+					"next",
+					"width",
+					"min",
+					"fluid",
+					"opacity: 1;",
+					"opacity: 1;\n    display: bl",
+					"opacity: 1;\n    display: block;\n    z-index: 2;",
+					"fluid",
+					"flexli",
+					"flexsli",
+					"flexlider",
+					"flexsli",
+					"a",
+					"visited",
+					"div.footer_site-dev",
+					"email",
+					"emai",
+					"postovs",
+					"opacity",
+					"ie8",
+					"opacity",
+					"opaci",
+					"text",
+					"call",
+					"opacity",
+					"fancybox_array",
+					"opacity",
+					"#present",
+					"fancybox",
+					"fancy",
+					"callback_popup",
+					"callba",
+					"call",
+					"обратный",
+					"callback",
+					"#callba",
+					"call",
+					"fancybox",
+					"flexsli",
+					"present",
+					"call",
+					"project-bu",
+					"projects",
+					"main_menu a",
+					"h6",
+					"prestext",
+					"h6",
+					"presText",
+					"h6",
+					"h5",
+					"h4",
+					"h3",
+					"h2",
+					"h1",
+					"email",
+					"div.presText span",
+					"main_menu",
+					"h6",
+					"kels_fo",
+					"current_price",
+					"h1",
+					";\n",
+					"email",
+					"e-mail",
+					"h2",
+					".h2",
+					"less",
+					"text-deco",
+					"h6",
+					"font-size: 14px",
+					"h3",
+					"3",
+					"h3",
+					"font-size: 14px",
+					"font-size: 12px",
+					"h2",
+					"p-1",
+					"font-size: 12px;",
+					"12px",
+					"font-size:12px",
+					"12px",
+					"11px",
+					"h5",
+					"11px",
+					"overwr",
+					"u",
+					"строительство",
+					"foot_li_active",
+					"white",
+					"наши",
+					"2-15",
+					"z-inde",
 					"line",
 					"butt",
 					"yellow",
@@ -861,78 +1422,7 @@
 					"e-mail",
 					"footer-1",
 					"div.footer",
-					"footer-gre",
-					"footer",
-					"footer-1",
-					"footer",
-					"menu-row",
-					"footer",
-					"fix-text a",
-					"fix-te",
-					"menu-row",
-					"menu-rig",
-					"fix-menu-r",
-					"fix-menu",
-					"fix-text",
-					"204",
-					"phone",
-					"button-me",
-					"inner_tim",
-					"h2",
-					"h1",
-					".h1",
-					"project-b",
-					"menu-row",
-					"callback",
-					"projects_pro",
-					"project",
-					"41px",
-					"41",
-					"active",
-					".active",
-					"project-b",
-					"fix",
-					"items",
-					"fix-me",
-					"button-me",
-					"items-row",
-					"menu-row",
-					"fix-me",
-					"fix-",
-					"li",
-					"a {",
-					"from-line",
-					"form",
-					".pag-n",
-					"gall",
-					"galla",
-					".gallery-g",
-					"fancybox-clo",
-					"fancybox-ite",
-					"fancybox",
-					"elements_call",
-					"ul,",
-					"}",
-					"flexsli",
-					"main-arti",
-					"ul",
-					"3",
-					"input",
-					"header-logo",
-					"fluid-co",
-					"header-fo",
-					"button-gree",
-					"callba",
-					"fluid",
-					"главная",
-					"a",
-					";\n",
-					"a",
-					"after",
-					"proje",
-					"submi",
-					"form",
-					"head"
+					"footer-gre"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -947,27 +1437,33 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Volumes/Winlin/Porosya/2"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Volumes/Winlin/Porosya/2/css/style.css",
+							"file": "/Volumes/Winlin/Porosya/2/cat.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 11575,
+								"buffer_size": 19292,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										11575
+										13778,
+										13798
 									]
 								],
 								"settings":
@@ -986,50 +1482,20 @@
 										},
 										"unmatched":
 										{
-											"1":
-											[
-												4942,
-												4943
-											]
 										}
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -1040,26 +1506,51 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1517.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -1068,15 +1559,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7874,
+								"buffer_size": 16827,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										7874
+										15152,
+										15162
 									]
 								],
 								"settings":
@@ -1099,41 +1590,135 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 7067.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Volumes/Winlin/Porosya/2/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21027,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21027,
+										21027
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												21026,
+												21027
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												20836,
+												20837
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -1144,26 +1729,169 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 18298.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Volumes/Winlin/Porosya/2/js/script.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1608,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										572,
+										572
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												572,
+												573
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												536,
+												537
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_regex_content"
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 491.0,
+								"translation.y": 290.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1171,7 +1899,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1204,12 +1932,16 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 88.0
+			},
 			"pinned_build_system": "",
-			"position": "0 155 86 1267 585 0 0 1280 1024 ",
+			"position": "0 43 261 1205 445 0 0 1280 1024 ",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1247,12 +1979,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 166.0,
+			"side_bar_width": 320.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 88,
+			"window_id": 110,
 			"workspace_name": ""
 		}
 	],

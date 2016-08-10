@@ -8,11 +8,11 @@
 		"/Users/vimpil/Desktop/Porosya"
 	],
 	"last_version": 3114,
-	"last_window_id": 90,
+	"last_window_id": 110,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 563.0,
+		"new_window_height": 1002.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -20,16 +20,60 @@
 				"selected_items":
 				[
 					[
+						"ma",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"fan",
+						"fancybox_array"
+					],
+					[
+						"toggle",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass()"
+					],
+					[
+						"togg",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
 						"pa",
 						"padding-left"
 					],
 					[
 						"padd",
 						"padding"
-					],
-					[
-						"margin",
-						"margin-top"
 					],
 					[
 						"ba",
@@ -104,10 +148,6 @@
 						"trigger	.trigger()"
 					],
 					[
-						"mar",
-						"margin-top"
-					],
-					[
 						"mouse",
 						"mousedown	.mousedown()"
 					],
@@ -156,10 +196,6 @@
 						"project-row"
 					],
 					[
-						"ma",
-						"margin-left"
-					],
-					[
 						"text",
 						"text-decoration"
 					],
@@ -178,10 +214,6 @@
 					[
 						"ha",
 						"hasClass	.hasClass()"
-					],
-					[
-						"bor",
-						"border-radius"
 					]
 				]
 			},
@@ -191,13 +223,13 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "inst",
+				"height": 67.0,
+				"last_filter": "forma",
 				"selected_items":
 				[
 					[
-						"inst",
-						"Package Control: Install Package"
+						"forma",
+						"Format: Javascript"
 					],
 					[
 						"html",
@@ -208,27 +240,51 @@
 						"Format CSS: Expanded"
 					],
 					[
-						"ja",
-						"Format: Javascript"
-					],
-					[
-						"forma",
-						"Format CSS: Expanded"
+						"fuzz",
+						"FuzzyFilePath: Show info"
 					],
 					[
 						"fuz",
 						"FuzzyFilePath: Rebuild cache"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
+						"package ",
+						"Package Control: List Packages"
 					],
 					[
-						"form",
-						"Format: Javascript"
+						"aut",
+						"Autoprefix CSS"
 					],
 					[
-						"htm",
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"package control lis",
+						"Package Control: List Packages"
+					],
+					[
+						"git commi",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"gits",
+						"Git: Status"
+					],
+					[
+						"htlm",
 						"HTMLBeautify"
 					],
 					[
@@ -236,24 +292,144 @@
 						"Format: Javascript"
 					],
 					[
-						"packa",
-						"Package Control: Remove Package"
+						"form",
+						"Format: Javascript"
 					],
 					[
-						"Packa",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Add Channel"
+						"list pa",
+						"Package Control: List Packages"
 					],
 					[
 						"package",
 						"Package Control: Install Package"
 					],
 					[
+						"package resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						"pack",
-						"Package Control: Remove Package"
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git reset",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git ",
+						"Git: Checkout Current File"
+					],
+					[
+						"git re",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"commit",
+						"Git: Commit history"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit history"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git bra",
+						"Git: Push Current Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git ad",
+						"Git: Add All"
+					],
+					[
+						"gitigno",
+						"Git: Update Project Ignored Files"
+					],
+					[
+						"set syntax html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ja",
+						"Format: Javascript"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
 					],
 					[
 						"package controle ma",
@@ -270,10 +446,6 @@
 					[
 						"pa",
 						"Package Control: List Packages"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 521.0
@@ -297,8 +469,25 @@
 			},
 			"file_history":
 			[
-				"/Volumes/Winlin/Porosya/2/index.html",
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.css",
 				"/Volumes/Winlin/Porosya/2/css/style.css",
+				"/Volumes/Winlin/Porosya/mytestforukrstudio.co.nf/index.html",
+				"/Volumes/Winlin/Porosya/2/index.html",
+				"/Volumes/Winlin/Porosya/1/index.html",
+				"/Volumes/Winlin/Porosya/1/js/script.js",
+				"/Volumes/Winlin/Porosya/2/js/script.js",
+				"/Volumes/Winlin/Porosya/1/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/2/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/1/css/style.css",
+				"/Volumes/Winlin/Porosya/1/bootstrap/css/bootstrap.css",
+				"/Volumes/Winlin/Porosya/2/css/beta.css",
+				"/Volumes/Winlin/Porosya/2/css/beta-2.css",
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.min.css",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Default (OSX).sublime-keymap",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/Volumes/Winlin/Porosya/Troubles/font_problem/css/main.css",
 				"/Volumes/Winlin/Porosya/Troubles/input Text/css/main.css",
 				"/Users/vimpil/Downloads/webfontkit-20160721-062029/stylesheet.css",
@@ -314,7 +503,7 @@
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
@@ -328,6 +517,98 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"next",
+					"width",
+					"min",
+					"fluid",
+					"opacity: 1;",
+					"opacity: 1;\n    display: bl",
+					"opacity: 1;\n    display: block;\n    z-index: 2;",
+					"fluid",
+					"flexli",
+					"flexsli",
+					"flexlider",
+					"flexsli",
+					"a",
+					"visited",
+					"div.footer_site-dev",
+					"email",
+					"emai",
+					"postovs",
+					"opacity",
+					"ie8",
+					"opacity",
+					"opaci",
+					"text",
+					"call",
+					"opacity",
+					"fancybox_array",
+					"opacity",
+					"#present",
+					"fancybox",
+					"fancy",
+					"callback_popup",
+					"callba",
+					"call",
+					"обратный",
+					"callback",
+					"#callba",
+					"call",
+					"fancybox",
+					"flexsli",
+					"present",
+					"call",
+					"project-bu",
+					"projects",
+					"main_menu a",
+					"h6",
+					"prestext",
+					"h6",
+					"presText",
+					"h6",
+					"h5",
+					"h4",
+					"h3",
+					"h2",
+					"h1",
+					"email",
+					"div.presText span",
+					"main_menu",
+					"h6",
+					"kels_fo",
+					"current_price",
+					"h1",
+					";\n",
+					"email",
+					"e-mail",
+					"h2",
+					".h2",
+					"less",
+					"text-deco",
+					"h6",
+					"font-size: 14px",
+					"h3",
+					"3",
+					"h3",
+					"font-size: 14px",
+					"font-size: 12px",
+					"h2",
+					"p-1",
+					"font-size: 12px;",
+					"12px",
+					"font-size:12px",
+					"12px",
+					"11px",
+					"h5",
+					"11px",
+					"overwr",
+					"u",
+					"строительство",
+					"foot_li_active",
+					"white",
+					"наши",
+					"2-15",
+					"z-inde",
 					"line",
 					"butt",
 					"yellow",
@@ -363,72 +644,7 @@
 					"footer",
 					"menu-row",
 					"footer",
-					"fix-text a",
-					"fix-te",
-					"menu-row",
-					"menu-rig",
-					"fix-menu-r",
-					"fix-menu",
-					"fix-text",
-					"204",
-					"phone",
-					"button-me",
-					"inner_tim",
-					"h2",
-					"h1",
-					".h1",
-					"project-b",
-					"menu-row",
-					"callback",
-					"projects_pro",
-					"project",
-					"41px",
-					"41",
-					"active",
-					".active",
-					"project-b",
-					"fix",
-					"items",
-					"fix-me",
-					"button-me",
-					"items-row",
-					"menu-row",
-					"fix-me",
-					"fix-",
-					"li",
-					"a {",
-					"from-line",
-					"form",
-					".pag-n",
-					"gall",
-					"galla",
-					".gallery-g",
-					"fancybox-clo",
-					"fancybox-ite",
-					"fancybox",
-					"elements_call",
-					"ul,",
-					"}",
-					"flexsli",
-					"main-arti",
-					"ul",
-					"3",
-					"input",
-					"header-logo",
-					"fluid-co",
-					"header-fo",
-					"button-gree",
-					"callba",
-					"fluid",
-					"главная",
-					"a",
-					";\n",
-					"a",
-					"after",
-					"proje",
-					"submi",
-					"form",
-					"head"
+					"fix-text a"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -445,7 +661,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -456,10 +672,14 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 88.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -499,7 +719,7 @@
 			{
 			}
 		},
-		"new_window_width": 1267.0
+		"new_window_width": 1276.0
 	},
 	"windows":
 	[
@@ -509,20 +729,84 @@
 				"selected_items":
 				[
 					[
-						"pa",
-						"padding-left"
-					],
-					[
 						"padd",
-						"padding"
+						"padding-bottom"
 					],
 					[
-						"margin",
-						"margin-top"
+						"th",
+						"this	$(this)"
+					],
+					[
+						"t",
+						"trim	$.trim()"
+					],
+					[
+						"u",
+						"url()"
 					],
 					[
 						"ba",
+						"background"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"bacg",
 						"background-color"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"fan",
+						"fancybox_array"
+					],
+					[
+						"toggle",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass()"
+					],
+					[
+						"togg",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"pa",
+						"padding-left"
 					],
 					[
 						"pad",
@@ -593,10 +877,6 @@
 						"trigger	.trigger()"
 					],
 					[
-						"mar",
-						"margin-top"
-					],
-					[
 						"mouse",
 						"mousedown	.mousedown()"
 					],
@@ -645,14 +925,6 @@
 						"project-row"
 					],
 					[
-						"ma",
-						"margin-left"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
 						"fo",
 						"font-family"
 					],
@@ -667,28 +939,43 @@
 					[
 						"ha",
 						"hasClass	.hasClass()"
-					],
-					[
-						"bor",
-						"border-radius"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Volumes/Winlin/Porosya/2/index.html",
+					"file": "/Volumes/Winlin/Porosya/2/cat.html",
 					"settings":
 					{
-						"buffer_size": 7870,
+						"buffer_size": 19292,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Volumes/Winlin/Porosya/2/css/style.css",
+					"file": "/Volumes/Winlin/Porosya/2/index.html",
 					"settings":
 					{
-						"buffer_size": 11576,
+						"buffer_size": 16827,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\n	@font-face {\n	font-family: 'Beresta';\n	src: url(../fonts/Beresta-Normal.eot);\n	src: url(../fonts/Beresta-Normal.eot?#iefix) format('embedded-opentype'), url(../fonts/Beresta-Normal.woff) format('woff'), url(../fonts/Beresta-Normal.ttf) format('truetype'), url(../fonts/Beresta-Normal.svg#Beresta-Normal) format('svg');\n	font-weight: 400;\n	font-style: normal;\n	font-stretch: normal\n}\n@font-face {\n	font-family: 'Medieval';\n	src: url(../fonts/Medieval-Normal.eot);\n	src: url(../fonts/Medieval-Normal.eot?#iefix) format('embedded-opentype'), url(../fonts/Medieval-Normal.woff) format('woff'), url(../fonts/Medieval-Normal.ttf) format('truetype'), url(../fonts/Medieval-Normal.svg#Medieval-Normal) format('svg');\n	font-weight: 400;\n	font-style: normal;\n	font-stretch: normal\n}\n@font-face {\n	font-family: 'Kelsonsans';\n	src: url(../fonts/Kelsonsans-Regular.eot);\n	src: url(../fonts/Kelsonsans-Regular.eot?#iefix) format('embedded-opentype'), url(../fonts/Kelsonsans-Regular.woff) format('woff'), url(../fonts/Kelsonsans-Regular.ttf) format('truetype'), url(../fonts/Kelsonsans-Regular.svg#Kelsonsans-Regular) format('svg');\n	font-weight: 400;\n	font-style: normal;\n	font-stretch: normal\n}\n@font-face {\n	font-family: 'Kelsonsans';\n	src: url(../fonts/Kelsonsans-Bold.eot);\n	src: url(../fonts/Kelsonsans-Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/Kelsonsans-Bold.woff) format('woff'), url(../fonts/Kelsonsans-Bold.ttf) format('truetype'), url(../fonts/Kelsonsans-Bold.svg#Kelsonsans-Bold) format('svg');\n	font-weight: 700;\n	font-style: normal;\n	font-stretch: normal\n}\n@font-face {\n	font-family: 'Opensans';\n	src: url(../fonts/Opensans-Regular.eot);\n	src: url(../fonts/Opensans-Regular.eot?#iefix) format('embedded-opentype'), url(../fonts/Opensans-Regular.woff) format('woff'), url(../fonts/Opensans-Regular.ttf) format('truetype'), url(../fonts/Opensans-Regular.svg#Opensans-Regular) format('svg');\n	font-weight: 400;\n	font-style: normal;\n	font-stretch: normal\n}\n@font-face {\n	font-family: 'Als-Rubl';\n	src: url(../fonts/Als-Rubl.eot);\n	src: url(../fonts/Als-Rubl.eot?#iefix) format('embedded-opentype'), url(../fonts/Als-Rubl.woff) format('woff'), url(../fonts/Als-Rubl.ttf) format('truetype'), url(../fonts/Als-Rubl.svg#Als-Rubl) format('svg');\n	font-weight: 400;\n	font-style: normal;\n	font-stretch: normal\n}\n@font-face {\n	font-family: 'Verdana-Bold';\n	src: url(../fonts/Verdana-Bold.eot);\n	src: url(../fonts/Verdana-Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/Verdana-Bold.woff) format('woff'), url(../fonts/Verdana-Bold.ttf) format('truetype'), url(../fonts/Verdana-Bold.svg#Verdana-Bold) format('svg');\n	font-weight: 700;\n	font-style: normal;\n	font-stretch: normal\n}\na:link,a:active, a:visited{\n	color:white;\n	text-decoration: none\n}\n.center {\n	text-align: center;\n	display: block\n}\n.fluid-container {\n	min-width: 1000px\n}\n.call_btn {\n	vertical-align: top;\n	background-color: #f19f00;\n	float: right;\n	width: 188px;\n	height: 39px;\n	margin-left: 18px;\n	margin-top: 6px\n}\n.footer #phone_number {\n	color: white;\n	margin-right: 2px;\n}\n#phone_number {\n	color: #192d37;\n	font-size: 24px;\n	font-weight: 700;\n	padding-left: 5px;\n	cursor: pointer;\n}\n#phone_number:hover {\n	text-decoration: none;\n}\ndiv.fluid-container.upper-head a:active, div.fluid-container.upper-head a:link, div.fluid-container.upper-head a:hover, div.fluid-container.upper-head a:visited, div.upper-head a:hover {\n	text-decoration: none\n}\ndiv.call_btn_sign {\n	color: #fff;\n	font-family: Verdana;\n	font-size: 16px;\n	font-weight: 400;\n	border-bottom: 2px dotted #fff;\n	width: 137px;\n	display: block;\n	margin-left: 25px;\n	margin-top: 5px\n}\n.none {\n	display: none\n}\n.strikethrough {\n	position: relative\n}\n.strikethrough:before {\n	position: absolute;\n	content: \"\";\n	left: -4%;\n	top: 40%;\n	right: -4%;\n	border-top: 1px solid;\n	border-color: inherit;\n	color: #000;\n	-webkit-transform: rotate(-11deg);\n	-moz-transform: rotate(-11deg);\n	-ms-transform: rotate(-11deg);\n	-o-transform: rotate(-11deg);\n	transform: rotate(-11deg)\n}\n.berest_zagol, .sub_zagol {\n	font-weight: 400\n}\n.berest_zagol {\n	text-align: center;\n	font-family: \"Beresta\";\n	color: #192d37;\n	font-size: 44px;\n	margin-top: 25px;\n	margin-bottom: 8px\n}\n.sub_zagol {\n	color: #686d6f;\n	font-family: \"Medieval\";\n	font-size: 14px;\n	margin-top: 8px;\n	margin-bottom: 0\n}\nspan.rubl {\n	font-family: 'Als-Rubl' !important;\n	text-transform: none;\n	font-weight: 100\n}\n.logo {\n	background: url(../images/logo.png) center center no-repeat;\n	width: 85px;\n	height: 75px\n}\n.contacts, .logo, .main_menu li {\n	display: inline-block\n}\n.sprite_phone:before {\n	background: url(../images/phone_sprite.png) center center no-repeat;\n	content: \" \";\n	height: 20px;\n	width: 20px;\n	display: inline-block;\n	margin: -10px 0 0 -25px;\n	cursor: pointer\n}\n.upper-head {\n	display: block;\n	height: 115px;\n	background-color: #fff\n}\ndiv.email {\n	margin-top: 6px\n}\n.email span, .presText .berest_zagol, .presText div {\n	font-size: 14px;\n	font-weight: 400\n}\n.email span {\n	color: #192d37;\n	font-family: Verdana\n}\n.email span, div.email a:hover {\n	text-decoration: underline\n}\n.upper-head .container {\n	margin-bottom: 21px;\n	padding-top: 18px;\n}\n.left-up-h {\n	float: left\n}\n.right-up-h {\n	float: right;\n	margin-top: 18px\n}\n.l-u-h_text {\n	display: inline-block;\n	margin-left: 18px\n}\ndiv.berest_zagol.logo_berest_zagol {\n	font-size: 40px;\n	margin-top: 8px;\n	text-align: left;\n	line-height: 44px;\n}\n.header-logo {\n	background: url(../images/header_panoram.png) center center no-repeat;\n	height: 500px;\n	z-index: 1;\n	position: relative\n}\n.discounts {\n	margin-top: 280px;\n	color: #fff\n}\n.discounts-box, .present_sprite_box {\n	display: block;\n	border-radius: 2px;\n	height: 60px\n}\n.discounts-box {\n	border: 4px solid #e9b707;\n	font-size: 30px;\n	text-align: center;\n	z-index: 1;\n	margin-left: 65px;\n	padding-top: 2px;\n	width: 360px;\n	cursor: pointer;\n}\n.present_sprite_box {\n	background-color: #e9b707;\n	content: \"\";\n	float: left;\n	width: 60px;\n	position: relative;\n	cursor: pointer;\n}\n.call {\n	box-shadow: 0 4px 50px 2px white;\n}\n.present_sprite {\n	background: url(../images/gift_icon.png) center center no-repeat;\n	width: 35px;\n	height: 40px;\n	position: absolute;\n	top: 10px;\n	left: 12px\n}\n.discounts-box_backgr {\n	display: block;\n	width: 360px;\n	height: 60px;\n	background-color: #000;\n	top: 0;\n	z-index: -1;\n	margin-left: 65px;\n	position: absolute;\n	left: 0;\n	opacity: .4;	/* IE 8 */\n	-ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)\";  /* IE 5-7 */\n	filter: alpha(opacity=40);  /* Netscape */\n	-moz-opacity: 0.4;  /* Safari 1.x */\n	-khtml-opacity: 0.4;  /* Good browsers */\n	opacity: 0.4;\n}\ndiv.discounts-box {\n	color: #fff\n}\ndiv.present_sprite_background {\n	height: 290px;\n	width: 550px;\n	top: -170px;\n	background: #fff url(../images/form_background.png) center bottom no-repeat;\n}\ndiv.container_pres {\n	margin-left: 30px;\n	margin-top: 38px;\n	height: 209px;\n	width: 490px\n}\ndiv.presText {\n	width: 488px;\n	margin-left: 1px\n}\ndiv.presText span, #phone_number {\n	font-family: \"Kelsonsans\"\n}\ndiv.present_window input[type=text] {\n	width: 268px;\n	float: left;\n	background-color: #fafafa;\n	height: 46px;\n	border: 1px solid #c2c2c2;\n	box-shadow: inset 0 2px 5px rgba(0, 0, 0, .2);\n	font-family: \"Opensans\";\n	font-size: 18px;\n	font-weight: 400;\n	padding-left: 12px;\n	display: block;\n	border-bottom-left-radius: 3px;\n	border-top-left-radius: 3px;\n}\ndiv.present_window input::-webkit-input-placeholder {\n\n	/* WebKit, Blink, Edge */\n	color: #878B8D;\n}\ndiv.present_window input:-moz-placeholder {\n\n	/* Mozilla Firefox 4 to 18 */\n	color: #878B8D;\n	opacity: 1;\n}\ndiv.present_window input::-moz-placeholder {\n\n	/* Mozilla Firefox 19+ */\n	color: #878B8D;\n	opacity: 1;\n}\ndiv.present_window input:-ms-input-placeholder {\n\n	/* Internet Explorer 10-11 */\n	color: #878B8D;\n}\n.main_menu a, input.yellow-button, #to_customer {\n	font-family: Verdana;\n	font-size: 16px\n}\ninput.yellow-button {\n	height: 46px;\n	width: 220px;\n	background-color: #eab600;\n	border: none;\n	float: right;\n	font-weight: 400;\n	color: #192d37;\n	text-decoration: underline;\n}\n.presText .berest_zagol {\n	color: #192d37;\n	font-family: \"KelsonSans\";\n	font-size: 33px;\n	line-height: 1.1;\n}\ndiv.fancybox-skin {\n	border-radius: 0;\n}\n.fancybox-item.fancybox-close {\n	background: url(../images/fancy_box_close.png) center center no-repeat;\n	height: 22px;\n	width: 22px;\n	right: 5px;\n	top: 5px;\n}\n.project-boxes > div{\n	border:none;\n	background: none;\n}\n.flex-direction-nav{\n	display: none;\n}\n.project-boxes .flex-control-nav{\n	display: none;\n}\n.presText div {\n	font-family: \"Verdana\";\n	line-height: 18px\n}\ndiv.first_p_text_present {\n	color: #686d6f;\n	margin-top: 23px;\n	margin-bottom: 19px;\n	text-align: center;\n}\ndiv.second_p_text_present {\n	color: #192d37;\n	text-align: center;\n}\ndiv.inputboxes_pres {\n	margin-top: 31px\n}\n.header-logo_bottom {\n	background: url(../images/menu_line.png) center center no-repeat;\n	height: 10px;\n	z-index: 1;\n	position: relative\n}\n.main_menu {\n	background: url(../images/menu_sprite.png) center center no-repeat;\n	height: 50px;\n	margin-top: -30px;\n	z-index: 2;\n	position: relative;\n	text-align: center\n}\n.main_menu ol {\n	list-style: none;\n	padding: 0;\n	margin: 0\n}\n#to_customer {\n	color: white;\n	cursor: pointer;\n}\n.main_menu a, #to_customer {\n	position: relative;\n	padding: 12px 18px;\n	font-weight: 500;\n	display: inline-block\n}\n.main_menu a:hover, #to_customer:hover {\n	color: #e9b707;\n	text-decoration: none;\n}\n.custom_arr {\n	position: absolute;\n	content: \"\";\n	background: url(../images/menu_sprite_dropdown.png) center center no-repeat;\n	display: block;\n	width: 6px;\n	height: 5px;\n	float: right;\n	position: absolute;\n	top: 21px;\n	left: 111px;\n}\n.cust_arr_pressed {\n	background: url(../images/menu_sprite_dropdown_pressed.png) center center no-repeat;\n}\n.to_customer_submenu {\n	content: \"\";\n	height: 150px;\n	width: 260px;\n	position: absolute;\n	top: 54px;\n	left: 663px;\n	text-align: left;\n	background: url(../images/dropdown_menu_sprite.png) center center no-repeat\n}\n.to_customer_submenu li:first-child a {\n	padding: 12px 18px\n}\n.to_customer_submenu a {\n	padding: 9px 18px\n}\n.ready_projects_back {\n	width: auto;\n	z-index: 0;\n	margin-top: -31px;\n	position: relative;\n	background: url(../images/bg_ready_projects.png);\n	height: 755px\n}\n.ready_projects_back .Ready_projects_title {\n	font-family: KelsonSans;\n	font-size: 60px;\n	color: #192d37;\n	font-weight: 400;\n	margin-top: 60px;\n	text-align: center\n}\n.bold_ready_projects {\n	color: #eab600;\n	font-weight: 700\n}\n.ready_projects_back .h6 {\n	color: #686d6f;\n	font-size: 24px;\n	text-align: center\n}\n.current_price {\n	color: #192d37;\n	font-family: KelsonSans;\n	font-size: 36px;\n	font-weight: 700;\n	text-transform: uppercase;\n	margin-bottom: 2px;\n}\n.proj_box {\n	width: 320px;\n	height: 450px;\n	display: inline-block;\n	margin-top: 5px;\n	border-radius: 4px;\n	position: relative;\n	overflow: auto;\n	text-align: center;\n}\n.proj_btn_line {\n	position: absolute;\n	content: \"\";\n	border-bottom: 1px solid white;\n	width: 160px;\n	opacity: 1;\n	top: 382px;\n	left: 58px;\n	z-index: 1;\n}\ndiv.proj_box.no_discount_proj {\n	border: 4px solid transparent;\n}\n.discount_proj div.discount_sign {\n	position: absolute;\n	background: url(../images/interest.png) center center no-repeat;\n	margin-left: 15px;\n	height: 51px;\n	width: 40px\n}\ndiv.proj_box.discount_proj {\n	border: 4px solid #eab600;\n	margin-top: 0;\n}\ndiv.proj_box.discount_proj input {\n	background-color: #eab600;\n	color: #000;\n}\n.project-boxes {\n	height: 478px;\n	text-align: center;\n	margin-top: 30px\n}\ndiv.proj_inbox {\n	display: block;\n	margin-top: 18px;\n	margin-left: 18px;\n	margin-right: 18px;\n	position: relative\n}\n.proj_inbox .price_before, .proj_inbox .p-1, .ready_projects_back .h6 {\n	font-family: KelsonSans;\n	font-weight: 400\n}\n.proj_inbox .p-1 {\n	line-height: 35px;\n	color: #192d37;\n	font-size: 24px;\n	margin-bottom: 10px\n}\n.proj_inbox .price_before {\n	color: #686d6f;\n	font-size: 18px;\n	margin-top: 12px;\n	margin-bottom: -5px\n}\n.proj_inbox .house_size, div.qual_overwrite {\n	color: #686d6f;\n	font-family: Verdana;\n	font-size: 14px;\n	font-weight: 400\n}\n.proj_inbox .house_size {\n	margin-top: 8px;\n	line-height: 18px;\n	margin-bottom: 17px;\n}\n.proj_inbox img {\n	width: 100%\n}\ndiv.proj_box input {\n	text-decoration: none;\n	height: 40px;\n	width: 100%;\n	background-color: #192d37;\n	color: #fff;\n	border-radius: 2px;\n	padding-bottom: 6px\n}\n.barcode {\n	white-space: pre\n}\n.line {\n	content: \"\";\n	border-bottom: 1px solid #000;\n	width: 100%;\n	opacity: .2;\n\n	/* IE 8 */\n	-ms-filter:\"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)\";  /* IE 5-7 */\n	filter: alpha(opacity=20);  /* Netscape */\n	-moz-opacity: 0.2;  /* Safari 1.x */\n	-khtml-opacity: 0.2;  /* Good browsers */\n	opacity: 0.2;\n}\n.proj_box_nav {\n	text-align: right;\n	margin-right: 5px;\n}\n.go_catalog {\n	color: #192d37;\n	font-family: Verdana;\n	font-size: 14px;\n	font-weight: 400;\n	line-height: 18px;\n	text-decoration: underline;\n	display: inline-block;\n	cursor: pointer\n}\n.catal_arr_left, .catal_arr_right {\n	width: 15px;\n	height: 20px;\n	display: inline-block;\n	cursor: pointer\n}\n.catal_arr_left {\n	background: url(../images/to_catalog_left.png) center center no-repeat;\n	margin-left: 19px;\n	margin-right: 7px;\n}\n.catal_arr_right {\n	background: url(../images/to_catalog_right.png) center center no-repeat;\n	margin-right: 18px\n}\n.catal_arrs {\n	display: inline-block;\n	vertical-align: middle\n}\n.kels_font {\n	font-family: \"KelsonSans\";\n	font-size: 40px\n}\n.achiev_blocks {\n	text-align: center;\n	margin-bottom: 20px\n}\n.ach_blk {\n	display: inline-block;\n	margin-top: 11px;\n	font-family: \"KelsonSans\";\n	font-size: 24px;\n	color: #686d6f;\n	margin-left: 41px;\n	margin-right: 41px\n}\n.ach_blk span {\n	display: block;\n	margin-top: -10px\n}\n.ach_blk b, .kels-font_h6 {\n	color: #192d37;\n	font-weight: 700;\n}\n.ach_blk b {\n	display: block;\n	font-family: \"KelsonSans\";\n	font-size: 40px\n}\ndiv.qual_overwrite {\n	line-height: 24px;\n	text-align: justify;\n	margin: 0 auto;\n	width: 790px\n}\ndiv.qual_overwrite a {\n	color: #000;\n	cursor: pointer;\n	text-decoration: underline\n}\n.kels-font_how {\n	font-family: KelsonSans;\n	font-size: 30px;\n	text-align: center;\n	margin-top: 15px\n}\n.qual_plan_img {\n	background: url(../images/technology_wm.png) no-repeat center center;\n	width: 800px;\n	height: 610px;\n	margin: 5px auto 25px\n}\ndiv.projecs_quality div.line {\n	width: 322px;\n	display: block;\n	margin: 0 auto\n}\ndiv.easy-work div.berest_zagol, div.projecs_quality div.qual_title {\n	color: #192d37;\n	font-family: KelsonSans;\n	font-weight: 700\n}\ndiv.projecs_quality div.qual_title {\n	text-align: center;\n	font-size: 30px;\n	margin-top: 28px;\n}\n.benefits_boxes {\n	display: block;\n	text-align: center\n}\n.benefit_box, .benefit_header {\n	font-weight: 400;\n	display: inline-block\n}\n.benefit_box {\n	line-height: 24px;\n	text-align: left;\n	width: 300px;\n	vertical-align: top;\n	margin: 20px 15px;\n	color: #686d6f;\n	font-family: Verdana;\n	font-size: 14px\n}\n.benefit_header {\n	color: #192d37;\n	font-family: KelsonSans;\n	font-size: 24px;\n	margin-left: 5px;\n	margin-bottom: 10px\n}\ndiv.benefit_box.first_child {\n	margin-left: 0\n}\ndiv.benefit_box.last_child {\n	margin-right: 0\n}\n.box_no_mediators_icon {\n	background: url(../images/mediators_icon.png) no-repeat center center;\n	width: 32px;\n	height: 32px;\n	display: inline-block\n}\n.box_documents_icon {\n	background: url(../images/documents_icon.png) no-repeat center center;\n	width: 28px;\n	height: 32px;\n	display: inline-block\n}\n.box_gear_icon {\n	background: url(../images/gear_icon.png) no-repeat center center;\n	width: 32px;\n	height: 32px;\n	display: inline-block\n}\n.easy-work {\n	background: url(../images/easy-work_background.png) no-repeat center center;\n	height: 379px;\n	position: relative;\n	z-index: 1\n}\ndiv.easy-work div.berest_zagol {\n	font-size: 40px;\n	margin-top: 26px\n}\n.easy_boxes, div.footer_phone {\n	text-align: center;\n	margin-top: 20px\n}\n.easy_box {\n	display: inline-block;\n	margin: 0 18px;\n	vertical-align: top\n}\n.easy_box_teleph_icon {\n	background: url(../images/telephone_icon.png) no-repeat center center;\n	width: 50px;\n	height: 50px;\n	margin: 0 auto\n}\n.easy_box_agreement_icon {\n	background: url(../images/agreement_icon.png) no-repeat center center;\n	width: 38px;\n	height: 50px;\n	margin: 0 auto\n}\n.easy_box_hammer_icon {\n	background: url(../images/hammer_icon.png) no-repeat center center;\n	width: 40px;\n	height: 50px;\n	margin: 0 auto\n}\n.easy_box_money_icon {\n	background: url(../images/money_icon.png) no-repeat center center;\n	width: 40px;\n	height: 50px;\n	margin: 0 auto\n}\n.easy_box.first-child {\n	margin-left: 0;\n	margin-right: 28px;\n	float: left\n}\n.easy_box.last-child {\n	margin-right: 20px;\n	margin-left: 10px\n}\ndiv.easy_boxes div.easy_box_text {\n	color: #192d37;\n	font-family: Verdana;\n	font-size: 14px;\n	font-weight: 400;\n	line-height: 24px;\n	margin-top: 25px;\n	text-align: left\n}\n.easy_box_footer_house_icon {\n	background: url(../images/house_icon.png);\n	width: 40px;\n	height: 50px;\n	margin: 0 auto\n}\n.easy_box.middle_marging {\n	margin: 14px auto;\n	display: block;\n	text-align: center\n}\n.easy_box_text_footer {\n	color: #192d37;\n	font-family: KelsonSans;\n	font-size: 24px;\n	font-weight: 400;\n	line-height: 24px;\n	margin: 5px\n}\n.footer {\n	height: 139px;\n	background-color: #192d37\n}\n.footer_boxes {\n	display: block;\n	margin-top: 30px\n}\n.copywrite {\n	display: block\n}\n.arrow_footer {\n	background: url(../images/footer_logo.png);\n	width: 27px;\n	height: 28px\n}\n.copy-write_text {\n	color: #686d6f;\n	font-family: Verdana;\n	font-size: 12px;\n	font-weight: 400;\n	display: inline-block;\n	vertical-align: top;\n	margin-top: 6px\n}\n.footer_logo_icon.arrow_footer {\n	width: 31px;\n	height: 31px;\n}\n.footer_logo_icon {\n	width: 27px;\n	height: 28px;\n	display: inline-block;\n	margin: 0 5px;\n	cursor: pointer\n}\n.social_netw {\n	display: block;\n	margin-top: 15px\n}\n.social_vk {\n	background: url(../images/social_vk_logo_active.png)\n}\n.social_fb {\n	background: url(../images/social_fb_logo.png)\n}\n.social_tw {\n	background: url(../images/social_tw_logo.png)\n}\n.social_od {\n	background: url(../images/social_od_logo.png)\n}\n.social_gp {\n	background: url(../images/social_gp_logo.png)\n}\ndiv.footer_boxes span {\n	position: relative\n}\n.footer-1 {\n	display: inline-block\n}\n.footer-2 {\n	font-size: 14px;\n	font-weight: 400;\n	font-family: Verdana;\n	line-height: 25px;\n	margin-left: 45px\n}\n.footer-2, .footer-3, .footer-4 {\n	display: inline-block;\n	color: #fff;\n	vertical-align: top\n}\n.footer-3 {\n	font-size: 14px;\n	font-weight: 400;\n	font-family: Verdana;\n	line-height: 25px;\n	margin-left: 40px\n}\n.footer-4 {\n	text-align: right;\n	float: right\n}\ndiv.footer_phone {\n	color: #fff;\n	font-family: KelsonSans;\n	font-size: 24px;\n	font-weight: 700;\n	margin-top: -5px;\n	cursor: pointer\n}\na.footer_email {\n	color: #fff;\n	font-family: Verdana;\n	font-size: 14px;\n	font-weight: 400;\n	text-decoration: underline;\n	cursor: pointer;\n	display: block;\n}\ndiv.footer_site-dev {\n	color: #686d6f;\n	font-family: Verdana;\n	font-size: 12px;\n	font-weight: 400;\n	margin-top: 10px\n}\ndiv.footer_site-dev div.foot_site, div.footer_site-dev_text {\n	text-decoration: none;\n	display: inline-block;\n	cursor: pointer\n}\ndiv.footer_site-dev_text {\n	text-decoration: underline\n}\nli.foot_li_active {\n	opacity: 1;\n}\nli.foot_li_non_active {\n	opacity: .25;\n	text-decoration: underline;\n	cursor: pointer;\n\n	/* IE 8 */\n	-ms-filter:\"progid:DXImageTransform.Microsoft.Alpha(Opacity=25)\";  /* IE 5-7 */\n	filter: alpha(opacity=25);  /* Netscape */\n	-moz-opacity: 0.25;  /* Safari 1.x */\n	-khtml-opacity: 0.25;  /* Good browsers */\n	opacity: 0.25;\n}\ndiv.footer-2 ul, div.footer-3 ul {\n	list-style-type: none\n}\ndiv.footer-2 ul li span:before, div.footer-3 ul li span:before {\n	content: \"• \";\n	display: inline-block;\n	margin-right: 2px;\n	font-family: \"Myriad Pro\";\n	font-size: 15px\n}\n.non_active_logo{\n	cursor: default;\n}\n\n.main_menu a.active{\n	color:#e9b707;\n	cursor: default;\n}\n.site_map .parent{\n	text-decoration: underline;\n	font-family: \"Verdana\";\n	font-size: 14px;\n	display: inline-block;\n}\n\n.fluid-container.header-logo.cropped{\n	height: 400px;\n	background-position-y: top;\n\n}\n.cropped .discounts{\n	background-color: black;\n	margin-top: 165px;\n}\n.elem_connection{\n	display: inline-block;\n	font-family: \"Verdana\";\n	color: #BDBFBF;\n	font-size: 14px;\n	position: absolute;;\n	top: 557px;\n	left: 236px;;\n}\n.curr_chld{\n	display: inline-block;\n	font-family: \"Verdana\";\n	font-size: 14px;\n	color: #686d6f;\n	padding-left: 25px;;\n}\n.site_map{\n	margin-top: 15px;\n	margin-left: 45px;	\n}\n.gal_header{\n	color: #192d37;\n	font-family: KelsonSans;\n	font-size: 60px;\n	font-weight: 400;\n	margin-bottom: 15px;\n	text-align: center;\n}\n.gal_boxes .flexslider{\n	border:none;\n}\n.srub_main_gal .flex-control-paging li{\n	position: relative;\n}\n.srub_main_gal .flex-control-paging li a{\n	background-color: #A3ABAF;\n	height: 30px;\n	width: 30px;\n	border-radius: 2px;\n}\n\n.srub_main_gal .flex-control-paging li a.flex-active{\n	background-color: #E9B707;	\n}\n\n.srub_main_gal .flex-control-paging li span{\n	color: white;\n	font-family: KelsonSans;\n	font-size: 24px;\n	font-weight: 400;\n	line-height: 18px;\n	padding-bottom: 40px;\n	position: absolute;\n	top:7px;\n	left: 10px;\n	pointer-events: none;\n}\n\n.srub_main_gal .flex-control-paging{\n	top:1400px;\n}\n.srub_main",
+					"file": "/Volumes/Winlin/Porosya/2/css/style.css",
+					"file_size": 21111,
+					"file_write_time": 131152970764700000,
+					"settings":
+					{
+						"buffer_size": 21093,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Volumes/Winlin/Porosya/2/js/script.js",
+					"settings":
+					{
+						"buffer_size": 1608,
 						"line_ending": "Unix"
 					}
 				}
@@ -700,33 +987,201 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 307.0,
-				"last_filter": "insta",
+				"height": 392.0,
+				"last_filter": "html",
 				"selected_items":
 				[
 					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"instal",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"forma",
+						"Format: Javascript"
+					],
+					[
+						"css",
+						"Format CSS: Expanded"
+					],
+					[
+						"fuzz",
+						"FuzzyFilePath: Show info"
+					],
+					[
+						"fuz",
+						"FuzzyFilePath: Rebuild cache"
+					],
+					[
+						"package ",
+						"Package Control: List Packages"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"package control lis",
+						"Package Control: List Packages"
+					],
+					[
+						"git commi",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"gits",
+						"Git: Status"
+					],
+					[
+						"htlm",
+						"HTMLBeautify"
+					],
+					[
+						"java",
+						"Format: Javascript"
+					],
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git reset",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"git ",
+						"Git: Checkout Current File"
+					],
+					[
+						"git re",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"commit",
+						"Git: Commit history"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit history"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git bra",
+						"Git: Push Current Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git ad",
+						"Git: Add All"
 					],
 					[
 						"gitigno",
 						"Git: Update Project Ignored Files"
 					],
 					[
-						"git",
-						"Git: Status"
-					],
-					[
 						"set syntax html",
 						"Set Syntax: HTML"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"html",
-						"HTMLBeautify"
 					],
 					[
 						"Package Control: ",
@@ -737,47 +1192,19 @@
 						"Package Control: Install Package"
 					],
 					[
-						"css",
-						"Format CSS: Expanded"
-					],
-					[
 						"ja",
 						"Format: Javascript"
-					],
-					[
-						"forma",
-						"Format CSS: Expanded"
-					],
-					[
-						"fuz",
-						"FuzzyFilePath: Rebuild cache"
 					],
 					[
 						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"form",
-						"Format: Javascript"
-					],
-					[
 						"htm",
 						"HTMLBeautify"
 					],
 					[
-						"java",
-						"Format: Javascript"
-					],
-					[
-						"packa",
-						"Package Control: Remove Package"
-					],
-					[
 						"Packa",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
 						"Package Control: Install Package"
 					],
 					[
@@ -816,10 +1243,31 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/Volumes/Winlin/Porosya/2",
+				"/Volumes/Winlin/Porosya/2/css",
+				"/Volumes/Winlin/Porosya/2/js"
+			],
 			"file_history":
 			[
-				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Volumes/Winlin/Porosya/2/index.html",
+				"/Volumes/Winlin/Porosya/1/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/2/css/ie8style.css",
+				"/Volumes/Winlin/Porosya/1/css/style.css",
+				"/Volumes/Winlin/Porosya/1/js/script.js",
+				"/Volumes/Winlin/Porosya/1/index.html",
+				"/Volumes/Winlin/Porosya/2/js/script.js",
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.css",
+				"/Volumes/Winlin/Porosya/1/bootstrap/css/bootstrap.css",
+				"/Volumes/Winlin/Porosya/2/css/beta.css",
+				"/Volumes/Winlin/Porosya/2/css/beta-2.css",
+				"/Volumes/Winlin/Porosya/2/bootstrap/css/bootstrap.min.css",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Default (OSX).sublime-keymap",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/User/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Can I Use/Can I Use.sublime-settings",
+				"/Users/vimpil/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/Volumes/Winlin/Porosya/2/css/style.css",
 				"/Volumes/Winlin/Porosya/Troubles/font_problem/css/main.css",
 				"/Volumes/Winlin/Porosya/Troubles/input Text/css/main.css",
@@ -836,7 +1284,7 @@
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -850,6 +1298,104 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"rub",
+					"rubl",
+					"proj_box_",
+					"map",
+					"header-logo",
+					"a:hover",
+					"next",
+					"width",
+					"min",
+					"fluid",
+					"opacity: 1;",
+					"opacity: 1;\n    display: bl",
+					"opacity: 1;\n    display: block;\n    z-index: 2;",
+					"fluid",
+					"flexli",
+					"flexsli",
+					"flexlider",
+					"flexsli",
+					"a",
+					"visited",
+					"div.footer_site-dev",
+					"email",
+					"emai",
+					"postovs",
+					"opacity",
+					"ie8",
+					"opacity",
+					"opaci",
+					"text",
+					"call",
+					"opacity",
+					"fancybox_array",
+					"opacity",
+					"#present",
+					"fancybox",
+					"fancy",
+					"callback_popup",
+					"callba",
+					"call",
+					"обратный",
+					"callback",
+					"#callba",
+					"call",
+					"fancybox",
+					"flexsli",
+					"present",
+					"call",
+					"project-bu",
+					"projects",
+					"main_menu a",
+					"h6",
+					"prestext",
+					"h6",
+					"presText",
+					"h6",
+					"h5",
+					"h4",
+					"h3",
+					"h2",
+					"h1",
+					"email",
+					"div.presText span",
+					"main_menu",
+					"h6",
+					"kels_fo",
+					"current_price",
+					"h1",
+					";\n",
+					"email",
+					"e-mail",
+					"h2",
+					".h2",
+					"less",
+					"text-deco",
+					"h6",
+					"font-size: 14px",
+					"h3",
+					"3",
+					"h3",
+					"font-size: 14px",
+					"font-size: 12px",
+					"h2",
+					"p-1",
+					"font-size: 12px;",
+					"12px",
+					"font-size:12px",
+					"12px",
+					"11px",
+					"h5",
+					"11px",
+					"overwr",
+					"u",
+					"строительство",
+					"foot_li_active",
+					"white",
+					"наши",
+					"2-15",
+					"z-inde",
 					"line",
 					"butt",
 					"yellow",
@@ -879,78 +1425,7 @@
 					"e-mail",
 					"footer-1",
 					"div.footer",
-					"footer-gre",
-					"footer",
-					"footer-1",
-					"footer",
-					"menu-row",
-					"footer",
-					"fix-text a",
-					"fix-te",
-					"menu-row",
-					"menu-rig",
-					"fix-menu-r",
-					"fix-menu",
-					"fix-text",
-					"204",
-					"phone",
-					"button-me",
-					"inner_tim",
-					"h2",
-					"h1",
-					".h1",
-					"project-b",
-					"menu-row",
-					"callback",
-					"projects_pro",
-					"project",
-					"41px",
-					"41",
-					"active",
-					".active",
-					"project-b",
-					"fix",
-					"items",
-					"fix-me",
-					"button-me",
-					"items-row",
-					"menu-row",
-					"fix-me",
-					"fix-",
-					"li",
-					"a {",
-					"from-line",
-					"form",
-					".pag-n",
-					"gall",
-					"galla",
-					".gallery-g",
-					"fancybox-clo",
-					"fancybox-ite",
-					"fancybox",
-					"elements_call",
-					"ul,",
-					"}",
-					"flexsli",
-					"main-arti",
-					"ul",
-					"3",
-					"input",
-					"header-logo",
-					"fluid-co",
-					"header-fo",
-					"button-gree",
-					"callba",
-					"fluid",
-					"главная",
-					"a",
-					";\n",
-					"a",
-					"after",
-					"proje",
-					"submi",
-					"form",
-					"head"
+					"footer-gre"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -965,27 +1440,345 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Volumes/Winlin/Porosya/2"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Volumes/Winlin/Porosya/2/index.html",
+							"file": "/Volumes/Winlin/Porosya/2/cat.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7870,
+								"buffer_size": 19292,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2948,
-										2948
+										13778,
+										13798
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Volumes/Winlin/Porosya/2/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16827,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15152,
+										15162
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 7067.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Volumes/Winlin/Porosya/2/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21093,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2,
+										2
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Volumes/Winlin/Porosya/2/js/script.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1608,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										572,
+										572
 									]
 								],
 								"settings":
@@ -997,15 +1790,15 @@
 										{
 											"1":
 											[
-												2946,
-												2947
+												572,
+												573
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/tag.png",
+												"Packages/BracketHighlighter/icons/double_quote.png",
 												"brackethighlighter.default"
 											]
 										},
@@ -1013,8 +1806,8 @@
 										{
 											"1":
 											[
-												2020,
-												2021
+												536,
+												537
 											]
 										},
 										"unmatched":
@@ -1023,172 +1816,67 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Abyss.tmTheme",
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 619.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Volumes/Winlin/Porosya/2/css/style.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11576,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Abyss.tmTheme",
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 290.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -1199,7 +1887,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1232,12 +1920,16 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 88.0
+			},
 			"pinned_build_system": "",
-			"position": "0 4 230 1267 585 0 0 1280 1024 ",
+			"position": "0 38 487 1205 445 0 0 1280 1024 ",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1275,12 +1967,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 166.0,
+			"side_bar_width": 320.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 90,
+			"window_id": 110,
 			"workspace_name": ""
 		}
 	],

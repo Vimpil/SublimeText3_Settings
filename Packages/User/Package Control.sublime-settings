@@ -8,9 +8,9 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Can I Use",
-		"caniuse_local",
 		"Color Highlighter",
 		"ColorPicker",
+		"Colorsublime",
 		"CSS Format",
 		"Emmet",
 		"FuzzyFilePath",
@@ -24,6 +24,7 @@
 		"JsFormat",
 		"LiveStyle",
 		"Package Control",
+		"PackageResourceViewer",
 		"SideBarEnhancements",
 		"Theme - Spacegray",
 		"Tomorrow Color Schemes"
